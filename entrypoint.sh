@@ -1,6 +1,6 @@
 #!/bin/sh
 
-if [ -z "$GLPI_SERVER" ] && [ -z "$GLPI_USER" ] && [ -z "$GLPI_PASSWORD" ; then
+if [ -z "$GLPI_SERVER" ] && [ -z "$GLPI_USER" ] && [ -z "$GLPI_PASSWORD" ] ; then
 
 	echo "Variables GLPI_SERVER or GLPI_USER or GLPI_PASSWORD not defined ..."
 	sleep 5
