@@ -1,6 +1,5 @@
 ### GLPI 10 AGENT DOCKER
 
-GitHub:  https://github.com/carlozleite/glip-agent-docker
 
 ```
 docker run -v /pathhost/glpi-agent/etc:/etc/glpi-agent \
